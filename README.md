@@ -1,10 +1,13 @@
-# Curso C#
+# Repositório Público do meu Curso de C# e .NET
 
-Nesse repositório vou gravar meu progresso no Curso de C#
+Nesse repositório vou gravar meu progresso no Curso de C# .NET da FDEVS
 
-## Em andamento
+## Curso C# e .NET
 
-- Atualizações: Fiz commit de aulas exercícios que estou fazendo no meu curso de C#.
+Vou disponibilizar meu progresso em C# e .NET da FDEVS com aulas, exercícios e alguns projetos pessoais.
+
+## Atualizações
+Fiz commit de alguns projetos pessoais dos exercícios propostos um pouco mais elaborados e robustos utilizando meu aprendizado até o momento
 
 ### Aulas
 - Declaração e tipo de variáveis.
@@ -23,5 +26,11 @@ Nesse repositório vou gravar meu progresso no Curso de C#
 2. Condicionais
 3. Utilizando Random
 4. Flags
+5. Do While
+6. For
 
-Obs.: Os exercícios foram feitos por mim sem copiar nem colar por isso talvez a lógica não esteja tão coerente.
+### Projetos
+- Projetos Utilizando o For como base
+
+### Observações Importantes
+Os exercícios apesar de serem sidos propostos pela plataforma FDEVS foi feita com minha autoria e com a lógica de programação atual minha, então se o código não estiver totalmente "clean" me ajudem a melhorar, Muito obrigado!
